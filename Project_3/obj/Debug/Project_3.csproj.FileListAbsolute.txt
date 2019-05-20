@@ -1,0 +1,11 @@
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\obj\Debug\Project_3.csprojAssemblyReference.cache
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\obj\Debug\Project_3.DataEntry.resources
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\obj\Debug\Project_3.Form1.resources
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\obj\Debug\Project_3.Properties.Resources.resources
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\obj\Debug\Project_3.csproj.GenerateResource.cache
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\obj\Debug\Project_3.csproj.CoreCompileInputs.cache
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\bin\Debug\Project_3.exe.config
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\bin\Debug\Project_3.exe
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\bin\Debug\Project_3.pdb
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\obj\Debug\Project_3.exe
+C:\Users\xiang\OneDrive\USF Academic Files\Semester 3\CEN 6084 Advances in Object-Oriented Programming for IT\Project_3\Project_3\Project_3\obj\Debug\Project_3.pdb
